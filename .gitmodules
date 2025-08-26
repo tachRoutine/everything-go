@@ -1,3 +1,78 @@
 [submodule "mockwails"]
 	path = mockwails
 	url = https://github.com/tacheraSasi/mockwails.git
+[submodule "ModalFileManager"]
+	path = ModalFileManager
+	url = https://github.com/tachRoutine/ModalFileManager.git
+[submodule "compiler-go"]
+	path = compiler-go
+	url = https://github.com/tacheraSasi/compiler-go.git
+[submodule "debme"]
+	path = debme
+	url = https://github.com/tachRoutine/debme.git
+[submodule "devtime"]
+	path = devtime
+	url = https://github.com/tacheraSasi/devtime.git
+[submodule "echo-server"]
+	path = echo-server
+	url = https://github.com/tachRoutine/echoserver-go.git
+[submodule "ecom-api"]
+	path = ecom-api
+	url = https://github.com/tacheraSasi/ecom-api.git
+[submodule "ellie"]
+	path = ellie
+	url = https://github.com/tacheraSasi/ellie.git
+[submodule "go-qrcode"]
+	path = go-qrcode
+	url = https://github.com/tacheraSasi/go-qrcode.git
+[submodule "godump"]
+	path = godump
+	url = https://github.com/tacheraSasi/godump
+[submodule "goofer"]
+	path = goofer
+	url = https://github.com/gooferOrm/goofer.git
+[submodule "gooferPrisma"]
+	path = gooferPrisma
+	url = https://github.com/gooferOrm/goofer.git
+[submodule "imgshift"]
+	path = imgshift
+	url = https://github.com/tachRoutine/imgshift.git
+[submodule "kancli"]
+	path = kancli
+	url = https://github.com/tacheraSasi/kancli.git
+[submodule "mdcli"]
+	path = mdcli
+	url = https://github.com/tacheraSasi/mdcli.git
+[submodule "medquebackend"]
+	path = medquebackend
+	url = https://github.com/mwanga45/medquebackend.git
+[submodule "monkey-lang"]
+	path = monkey-lang
+	url = https://github.com/tachRoutine/monkey-lang.git
+[submodule "Nuru"]
+	path = Nuru
+	url = https://github.com/tacheraSasi/Nuru.git
+[submodule "notify-africa-go"]
+	path = notify-africa-go
+	url = https://github.com/tacheraSasi/notify-africa-go.git
+[submodule "practice"]
+	path = practice
+	url = https://github.com/tachRoutine/golang-daily.git
+[submodule "qouteswidget"]
+	path = qouteswidget
+	url = https://github.com/tachRoutine/qouteswidget.git
+[submodule "smartrun"]
+	path = smartrun
+	url = https://github.com/tachRoutine/smartrun.git
+[submodule "tripwire"]
+	path = tripwire
+	url = https://github.com/tacheraSasi/tripwire.git
+[submodule "vertex"]
+	path = vertex
+	url = https://github.com/tacheraSasi/vertex.git
+[submodule "wailsterm"]
+	path = wailsterm
+	url = https://github.com/tachRoutine/wailsterm.git
+[submodule "whatscli"]
+	path = whatscli
+	url = https://github.com/tacheraSasi/whatscli.git
