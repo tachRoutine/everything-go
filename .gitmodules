@@ -1,0 +1,3 @@
+[submodule "mockwails"]
+	path = mockwails
+	url = https://github.com/tacheraSasi/mockwails.git
