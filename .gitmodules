@@ -91,3 +91,8 @@
 [submodule "go-xsearch"]
 	path = go-xsearch
 	url = https://github.com/tachRoutine/go-xsearch.git
+
+[submodule "filebrowser"]
+  path = filebrowser
+  url = https://github.com/tachRoutine/filebrowser.git
+
