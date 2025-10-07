@@ -76,3 +76,18 @@
 [submodule "whatscli"]
 	path = whatscli
 	url = https://github.com/tacheraSasi/whatscli.git
+[submodule "awesome-wails"]
+	path = awesome-wails
+	url = https://github.com/tachRoutine/awesome-wails.git
+[submodule "beamdrop"]
+	path = beamdrop
+	url = https://github.com/tachRoutine/ekiliBeam-go.git
+[submodule "cgo-rand"]
+	path = cgo-rand
+	url = https://github.com/tachRoutine/cgo-rand.git
+[submodule "fuzzy"]
+	path = fuzzy
+	url = https://github.com/tachRoutine/fuzzy.git
+[submodule "go-xsearch"]
+	path = go-xsearch
+	url = https://github.com/tachRoutine/go-xsearch.git
